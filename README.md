@@ -1,3 +1,5 @@
+🧮 Customer Segmentation using Clustering
+
 Customer Segmentation Using Machine Learning (K-Means Clustering)
 
 A Machine Learning project that segments customers based on purchasing behavior using K-Means Clustering, deployed as an interactive Streamlit web app.
