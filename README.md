@@ -6,3 +6,16 @@ A Machine Learning project that segments customers based on purchasing behavior 
 
 🔗 Live Demo: https://clustering-2dzfuev36fgdbdn4eqx83w.streamlit.app/
 
+## 🚀 Features
+
+- Upload customer data in CSV format
+
+- Automatic preprocessing of data
+
+- K-Means clustering with adjustable number of clusters
+
+- Visualization of customer segments
+
+- Downloadable cluster results
+
+- Clean and interactive Streamlit UI
