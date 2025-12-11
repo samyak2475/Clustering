@@ -61,7 +61,9 @@ Model saving using Pickle
 
 Deployment using Streamlit Cloud
 
+Downloadable CSV file with cluster assignment
+
+
 <img width="1754" height="919" alt="Screenshot 2025-12-12 014225" src="https://github.com/user-attachments/assets/eaccc4c2-4b80-4865-832e-3245ebfdb1d6" />
 
 
-Downloadable CSV file with cluster assignment
